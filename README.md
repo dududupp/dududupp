@@ -1,4 +1,4 @@
-<!-- ============ Bloom Header (day / night follows your theme) ============ -->
+<!-- ============ Bloom Header (day / night follows your theme) ============ -->1
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="bloom-header-night.svg" />
